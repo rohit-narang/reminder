@@ -1,0 +1,17 @@
+.App {
+    width: 100%;
+    text-align: center
+}
+
+.title{
+    font-weight: bold;
+    font-size: large
+}
+
+.content{
+    margin: 40px
+}
+
+.delete-button{
+    text-align: right
+}
